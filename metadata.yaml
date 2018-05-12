@@ -1,0 +1,29 @@
+_repo: Travels-through-the-South-of-France-and-the-Interior-of-Provinces-of-Provence-and-Languedoc-i__21256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinkney, lieutenant-colonel (Ninian)
+    alias: Pinkney, Ninian
+    birthdate: 1776
+    deathdate: 1825
+    gutenberg_agent_id: '9805'
+    url: http://www.gutenberg.org/2009/agents/9805
+description: ''
+gutenberg_issued: '2007-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21256'
+  lccn: '49032399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+title: Travels through the South of France and the Interior of Provinces of Provence
+  and Languedoc in the Years 1807 and 1808
+url: http://www.gutenberg.org/ebooks/21256
